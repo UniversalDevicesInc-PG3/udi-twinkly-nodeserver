@@ -1,21 +1,25 @@
 {
     "name": "Twinkly",
-    "docs": "https://github.com/therealmysteryman/udi-milight-polyglot/blob/master/README.md",
+    "docs": "https://github.com/UniversalDevicesInc-PG3/udi-milight-polyglot/blob/master/README.md",
     "type": "python3",
     "executable": "twinkly_poly.py",
     "install": "install.sh",
     "shortPoll": "90",
     "longPoll": "600",
     "description": "Connect Twinkly Lighting system to the ISY994.",
-    "notice": "https://github.com/therealmysteryman/udi-milight-polyglot/blob/master/LICENSE",
+    "notice": "https://github.com/UniversalDevicesInc-PG3/udi-milight-polyglot/blob/master/LICENSE",
+	"logLevel": "INFO",
+	"customParams": {
+		"host": ""
+	},
     "credits": [
         {
             "title": "twinkly_nodeserver: A Polyglot v2 interface to Milight Protocol V6",
             "author": "AutomationGeek",
-            "version": "2.0.8",
-            "date": "January 24, 2021",
-            "source": "https://github.com/therealmysteryman/udi-milight-polyglot",
-            "license": "https://github.com/therealmysteryman/udi-milight-polyglot/blob/master/README.md"
+            "version": "3.0.0",
+            "date": "October 20, 2021",
+            "source": "https://github.com/UniversalDevicesInc-PG3/udi-milight-polyglot",
+            "license": "https://github.com/UniversalDevicesInc-PG3/udi-milight-polyglot/blob/master/README.md"
         },
 	{
             "title": "udi-poly-template-python: A Polyglot v2 Poly template",
@@ -33,5 +37,14 @@
             "source": "https://github.com/dr1rrb/py-twinkly-client/",
             "license": "https://github.com/dr1rrb/py-twinkly-client/blob/main/LICENSE"
         }
-    ]
+    ],
+    "store": {
+        "developer": "bpaauwe@bobsplace.com",
+        "purchaseOptions": [
+            {
+                "isPerpetual": true,
+                "price": 0
+            }
+        ]
+    }
 }
