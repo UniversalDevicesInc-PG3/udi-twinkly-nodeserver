@@ -1,6 +1,6 @@
-# Twinkly Polyglot V2 Node Server
+## This nodeserver has been converted to run on PG3. The code has been moved to https://github.com/UniversalDevicesInc-PG3/udi-twinkly-nodeserver
 
-![Build Status](https://travis-ci.org/therealmysteryman/udi-twinkly-nodeserver.svg?branch=master)
+# Twinkly Polyglot V2 Node Server
 
 This Poly provides an interface between Twinkly and Polyglot v2 server. 
 
