@@ -1,6 +1,6 @@
-# Twinkly Polyglot V2 Node Server
+# Twinkly Polyglot V3 Node Server
 
-This Poly provides an interface between Twinkly and Polyglot v2 server. 
+This Poly provides an interface between Twinkly and Polyglot v3 server. 
 
 ## Installation
 
